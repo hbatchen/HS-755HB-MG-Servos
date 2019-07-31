@@ -8,3 +8,5 @@ Slightly different to standard model servos due to extended rotation range.
    a bit with just ground disconnected.
 
 2) Controlling with pots / joystic pots 
+
+I'll upload more details and some arduino code later
