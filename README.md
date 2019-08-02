@@ -9,4 +9,4 @@ Slightly different to standard model servos due to extended rotation range.
 
 2) Controlling with pots / joystic pots 
 
-I'll upload more details and some arduino code later
+I'll upload more details later
